@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chat Client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_user_list">UserList</string>
+    <string name="action_group">User List</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
